@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dogwood-baton-240611",
+  "private_key_id": "ccf4469590bb92da23eaaea61ca4fa43f3b5464a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+/GzQw4rdm2y8\npvXPK8MwVQopf+0TPD0bfPJGpRrJTnTOuQd4i3M8Wwc0Gxpdeh8EKliijqlWd2Tg\nQl0D5IOlHeNLxByYqCfdvYhKvOlXlcjBlw1n+fFqf0Rfy6VDPoHsPMB5A/tszYi4\nBnl2cCtmIaI9avfM8n86UXVvnB8511uq6j+Qz4HUVZ60KTovDYvm+/+rp66COsmZ\nwSdCWlVTIcul/9bQfUlo9ohP8k06uUAR77O+HzqgZc+P5UB/HGTJeW9Ecse0OxwN\nzMTnWRGqGcNH8XSuApBFSPGbe6/9h7EQDZbD3oP/xmiY/kX9K9RqMZM2sCHzn1cH\neD+czp7vAgMBAAECggEADkNPDmmGuwq6xyf3iYjszco8CmIJtCW2hpFWjUdn8GAR\n7HJNstyZ4YhcHwcQeVSqcPwx8bSSbukBuUHGLTPpT5vOIsAQRqegOo4cr0AxHkpg\nW3IgHS4XBRYLZtVlj9e2NOH17ykIo3/XVa7zbpCX8nZROyGm70EDlrkIpSoqptNj\nwukG+0XarfurojrI7L71PgTZcqUteWxlYLgEhpUxeWRuMP5hXuyn+KELYxTLrXKR\nT/I5ObsiyhmHS76xP0ayINh5FmQ6Zyb4v1lmZlO/V6pDKdTLBuew24lg1Bu3zL82\nfa6DgOiQJZs9qykQt2o2cvVWTXf92d+v2oYl8K/T4QKBgQDoX7TJTwLP7X/Zdz5l\nXPft8SI1/qWoxZKbdgBu+bV0BchZqHBUpo5M0H6HLgeuZ7qPw3zE2NO4bkU3tu/v\nyQIxucj8gZlFRN5fhZW7tyHcNByTVbKat5HWAjkeJy4Ydmdo3F72m7u1KxAPhX/z\nhoIflMIZbVUPJqtsRX1Yw3xRkQKBgQDSZ3b9Iw14CwMWQ6SPR23SbIJp05OZd91e\nJmZSx6f/fJGXOicSBcWMgfWNz1oCNYr3hP4tt4JDNTJbNhR0cAQfdAydJywcR7Zt\nkayvECCYZq8oGHcxFZggPt10SQ2FyhgBXlQF4thkVAnHMV+td5utn8ONPKONTo4K\nVtLdJWuofwKBgF88um+3PkPR5xBN2vjYPZT7uzW+BE9Dim7E0jCpj0DaDd8RNdi7\n2p6I5RKqPuOwB7pcOIrFAyEXsK7A/12bWJbgugsjYpoNO8aSjWe+CtahVQTdnrHi\ngpbfmmFNVYsZHBDSIOmZsjjySUbTRDme6z3eTh71vGLVSnS5lkIG/LDBAoGAPMih\nKm4W9QgRYzw1bSMQigrI/jOeX2aucAWd5+pAEWH2WX72TJGYSYg93TL66Mp5FBq6\np5BtNGdI3erYq+60cjW/cyMe7iiVfj/oaEa7c+uuTGINBQQdB6vBpFd6bZ09pB+R\nHIY1R36zuHT+FAoK0nTmNIZBJZB9HmWI01R9LpcCgYBTbvm2K9qBACqtBL6z9pli\nl1RgN858YNhDdtdjfK9x85JLD/HBEBVxY91aSBXSMZ2MjwJaPQ1HPgkEqKx+uiCK\ngiUg28LIrLDV1Q+VYeB8+ib5F4VchozBRS9IYdoVMWer9Emt0TH3//B9rae3cHUi\n+rFi7Ccq5O2W9oX9w/SKvQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nlp-934@dogwood-baton-240611.iam.gserviceaccount.com",
+  "client_id": "113816360457711774683",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nlp-934%40dogwood-baton-240611.iam.gserviceaccount.com"
+}
